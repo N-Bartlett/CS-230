@@ -2,7 +2,7 @@
 SNHU CS-230 Portfolio
 
 
-Briefly summarize The Gaming Room client and their software requirements. Who was the client? What type of software did they want you to design?
+<bold>Briefly summarize The Gaming Room client and their software requirements. Who was the client? What type of software did they want you to design?</bold>
 
 Gaming room is a 3rd party company that hired us to do a design document to port their game from its platform onto, iPhone and Andriod.
 
